@@ -53,3 +53,4 @@ This project enhanced my:
 4. Use the navigation buttons to switch between the HR Analytics Dashboard and Employee Performance Dashboard.
 
 ---
+Feel free to contribute to this repository or reach out with suggestions! 🎉
