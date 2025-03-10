@@ -17,7 +17,7 @@ This repository contains an HR Analytics Dashboard built using Power BI. The das
   *Gender filter slicer for customized data analysis.*
 
   ### Preview
-![Dashboard](./screenshots/first_page.png)
+![Image](https://github.com/user-attachments/assets/cacbde34-a0d2-4c67-bb8b-d1e2097e2f80)
 
 2️⃣ **Employee Performance Dashboard**
 - Performance Metrics:
