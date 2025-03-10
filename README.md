@@ -30,7 +30,7 @@ This repository contains an HR Analytics Dashboard built using Power BI. The das
 *Navigation buttons for seamless transitions between dashboards.*
 
 ### Preview
-![Dashboard](./screenshots/first_page.png)
+![Image](https://github.com/user-attachments/assets/b45db6c6-f2d5-4442-a3b4-3a0200e8844a)
 
 ---
 
