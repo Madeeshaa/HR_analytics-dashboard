@@ -47,7 +47,7 @@ This project enhanced my:
 ---
 
 ### How to Use
-1. Download the .pbix file from the repository. [HR analytic.pbix](HR analytic.pbix)
+1. Download the [.pbix](./HR_analytics.pbix) file from the repository.
 2. Open the file in Power BI Desktop.
 3. Interact with the filters and dropdowns to explore the data.
 4. Use the navigation buttons to switch between the HR Analytics Dashboard and Employee Performance Dashboard.
